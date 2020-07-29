@@ -4,7 +4,7 @@
 	"require_update": false,
 	"disable_online": false,
 	"isOffAdmob": false,
-	"isOffFan":false,
+	"isOffFan":true,
 	"hideRate":false,
 	"percent_AdmobVsFan":75
 }
