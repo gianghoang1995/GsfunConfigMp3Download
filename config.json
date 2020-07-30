@@ -5,6 +5,6 @@
 	"disable_online": false,
 	"isOffAdmob": false,
 	"isOffFan":true,
-	"hideRate":true,
+	"hideRate":false,
 	"percent_AdmobVsFan":100
 }
