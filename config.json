@@ -6,5 +6,6 @@
 	"isOffAdmob": false,
 	"isOffFan":true,
 	"hideRate":false,
+	"use_soundcloud":true,
 	"percent_AdmobVsFan":100
 }
